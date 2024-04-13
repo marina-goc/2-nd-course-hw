@@ -11,8 +11,7 @@ num2 = "09.01.2007";
 alert (num2);
 
 // 3. (Можно соед название перемен и знач)
-let creatorName;
-creatorName = "Брендан Айк"
+let creatorName = "Брендан Айк"
 alert (creatorName);
 
 // 4.
@@ -50,7 +49,7 @@ num--;
 alert(num);
 
 // 8. 
-let age = (prompt('Сколько Вам лет?'));
+let age = prompt('Сколько Вам лет?');
 alert(age);
 
 // 9.0
@@ -77,5 +76,5 @@ let info = prompt ('Какую информацию хотите узнать о
 alert (user[info]);
 
 // 10
-let nam = (prompt ('Как Вас зовут?'));
+let nam = prompt ('Как Вас зовут?');
 alert (`Привет, ${nam}!`);
